@@ -13,7 +13,7 @@
 4. TestFiles(存放测试使用的数据文件)
 5. TestContent(被测模块)
 6. Report(测试报告)
-7. unitest_main.py(执行入口)
+7. unittest_main.py(执行入口)
 
 
 ## 测试用例格式说明:
